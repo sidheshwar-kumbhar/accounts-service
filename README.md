@@ -17,6 +17,25 @@ Develop small app within ReactJS mentioned with problem statement mentioned belo
 *  A rating Meter representing if user is having,Good - Bad spending habits on scale of 1-10
 *  Note: You can use mocks for backend services.
 
+#  Application Screens
+
+*   Login Page
+
+<img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/user-login.jpg?raw=true" alt="placeholder" width="80%" >
+ 
+*   Home page – Dashboard tab
+
+ <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/home-page-dashboard.jpg?raw=true" alt="placeholder" width="80%" >
+ 
+*  Home page – Spending Money tab
+
+ <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/home-page-spending-money.jpg?raw=true" alt="placeholder" width="80%" >
+ 
+*   After Log out screen
+
+ <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/user-login-after-logout.jpg?raw=true" alt="placeholder" width="80%" >
+
+
 #  Solution Design
 
 This application created in two parts
@@ -74,23 +93,5 @@ User4@test.com  User4
 #  Setup Requirements
 *   ReactJS, NodeJS, VS Code, STS, Java 21
  
-#  Application Screens
-
-*   Login Page
-
-<img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/user-login.jpg?raw=true" alt="placeholder" width="80%" >
- 
-*   Home page – Dashboard tab
-
- <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/home-page-dashboard.jpg?raw=true" alt="placeholder" width="80%" >
- 
-*  Home page – Spending Money tab
-
- <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/home-page-spending-money.jpg?raw=true" alt="placeholder" width="80%" >
- 
-*   After Log out screen
-
- <img src="https://github.com/sidheshwar-kumbhar/accounts-service/blob/main/user-login-after-logout.jpg?raw=true" alt="placeholder" width="80%" >
-
 
 
