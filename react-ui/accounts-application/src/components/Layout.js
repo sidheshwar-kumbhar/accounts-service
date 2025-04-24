@@ -7,9 +7,9 @@ function Layout({ isAuthenticated, user, logout }) {
             <header>
                 {
                     isAuthenticated && (
-                        <div class="container">
+                        <div class="container bg-light">
                             <div class="row">
-                                <nav className="col-md-8 navbar navbar-expand-lg navbar-light bg-light">
+                                <nav className="col-md-8 navbar navbar-expand-lg navbar-light">
                                     <ul className="navbar-nav">
                                         <li className="nav-item active">
                                             <Link className="nav-link" to="/home">Home</Link>

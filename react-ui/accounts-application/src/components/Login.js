@@ -36,8 +36,6 @@ function Login() {
                 const json = await response.json();
                 setData(json);
                 dataCache(json);
-                setLoading(false);
-                console.log(json);
                 // Handle successful submission
                 console.log('Form submitted successfully!');
             } else {
